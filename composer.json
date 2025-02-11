@@ -5,12 +5,18 @@
             "Kim1ne\\": "src/"
         }
     },
+    "config": {
+        "sort-packages": true
+    },
+    "version": "1.0",
     "authors": [
         {
             "name": "kim1ne"
         }
     ],
     "require": {
-        "react/event-loop": "^1.5"
+        "php": ">=8.1",
+        "react/event-loop": "^1.5",
+        "wujunze/php-cli-color": "^2.4"
     }
 }
