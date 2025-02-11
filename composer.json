@@ -1,0 +1,16 @@
+{
+    "name": "kim1ne/core",
+    "autoload": {
+        "psr-4": {
+            "Kim1ne\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kim1ne"
+        }
+    ],
+    "require": {
+        "react/event-loop": "^1.5"
+    }
+}
